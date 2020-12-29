@@ -1,0 +1,2 @@
+I'm creating custom editor windows for my group project. They're based on Odin Inspector, though I've been working with similar Unity Editor too.
+In order to test latest version, please navigate to Tools->Odin Inspector->Entity Creator (or Level Creator or Event Creator)

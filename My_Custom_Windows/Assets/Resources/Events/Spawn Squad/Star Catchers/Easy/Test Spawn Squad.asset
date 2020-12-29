@@ -1,0 +1,277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d6a5090581bed64cb9d077a4a6d448a, type: 3}
+  m_Name: Test Spawn Squad
+  m_EditorClassIdentifier: 
+  objectName: Test Spawn Squad.asset
+  path: Assets/Resources/Events/Spawn Squad/Star Catchers/Easy/Test Spawn Squad.asset
+  _eventName: Test Spawn Squad
+  _eventType: 1
+  _itemPrefab: {fileID: 0}
+  ItemLanesNumbers:
+    indent: 106
+  _itemLanes:
+    lanes:
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    lane1:
+      Value: 1
+      Enabled: 1
+    lane2:
+      Value: 1
+      Enabled: 1
+    lane3:
+      Value: 1
+      Enabled: 1
+    lane4:
+      Value: 1
+      Enabled: 1
+    lane5:
+      Value: 1
+      Enabled: 1
+    lane6:
+      Value: 1
+      Enabled: 1
+    lane7:
+      Value: 1
+      Enabled: 1
+    lane8:
+      Value: 1
+      Enabled: 1
+    lane9:
+      Value: 1
+      Enabled: 1
+    lane10:
+      Value: 1
+      Enabled: 1
+    lane11:
+      Value: 1
+      Enabled: 1
+  _squadFaction: 0
+  _patternDifficulty: 0
+  _unitCount: 5
+  _spawnEntryDuration: 1
+  _stopSpawner: 0
+  _approxSpawnSquadTime: 1
+  _squadTimelinePrefab: {fileID: 0}
+  squadLanesNumbers:
+    indent: 106
+  _squadLanes:
+    lanes:
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 0
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    lane1:
+      Value: 1
+      Enabled: 1
+    lane2:
+      Value: 1
+      Enabled: 1
+    lane3:
+      Value: 1
+      Enabled: 1
+    lane4:
+      Value: 1
+      Enabled: 1
+    lane5:
+      Value: 1
+      Enabled: 1
+    lane6:
+      Value: 1
+      Enabled: 1
+    lane7:
+      Value: 1
+      Enabled: 1
+    lane8:
+      Value: 1
+      Enabled: 1
+    lane9:
+      Value: 1
+      Enabled: 1
+    lane10:
+      Value: 0
+      Enabled: 1
+    lane11:
+      Value: 1
+      Enabled: 1
+  _bossFaction: 0
+  _approxSpawnBossTime: 0
+  _bossTimelinePrefab: {fileID: 0}
+  bossLanesNumbers:
+    indent: 106
+  _bossLanes:
+    lanes:
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    lane1:
+      Value: 1
+      Enabled: 1
+    lane2:
+      Value: 1
+      Enabled: 1
+    lane3:
+      Value: 1
+      Enabled: 1
+    lane4:
+      Value: 1
+      Enabled: 1
+    lane5:
+      Value: 1
+      Enabled: 1
+    lane6:
+      Value: 1
+      Enabled: 1
+    lane7:
+      Value: 1
+      Enabled: 1
+    lane8:
+      Value: 1
+      Enabled: 1
+    lane9:
+      Value: 1
+      Enabled: 1
+    lane10:
+      Value: 1
+      Enabled: 1
+    lane11:
+      Value: 1
+      Enabled: 1
+  _dropResource: 0
+  _approxObstacleTime: 0
+  _obstacleTimelinePrefab: {fileID: 0}
+  obstacleLanesNumbers:
+    indent: 106
+  _obstacleLanes:
+    lanes:
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    - Value: 1
+      Enabled: 1
+    lane1:
+      Value: 1
+      Enabled: 1
+    lane2:
+      Value: 1
+      Enabled: 1
+    lane3:
+      Value: 1
+      Enabled: 1
+    lane4:
+      Value: 1
+      Enabled: 1
+    lane5:
+      Value: 1
+      Enabled: 1
+    lane6:
+      Value: 1
+      Enabled: 1
+    lane7:
+      Value: 1
+      Enabled: 1
+    lane8:
+      Value: 1
+      Enabled: 1
+    lane9:
+      Value: 1
+      Enabled: 1
+    lane10:
+      Value: 1
+      Enabled: 1
+    lane11:
+      Value: 1
+      Enabled: 1
+  _changeSpeedOption: 0
+  _changeSpeedModifier: 0
+  multiplierMessage: Coming soon
+  _character: Coming Soon (Will be Enum)
+  _dialogImage: {fileID: 0}
+  _approxDialogTime: 0
+  _dialogType: 0
+  _dialogText: 
+  uniqueEventMessage: Coming soon
